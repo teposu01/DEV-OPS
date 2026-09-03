@@ -51,4 +51,4 @@ vagrant halt    # run from the host to shut the VM down
 > range (`192.168.56.0/21`), so no `/etc/vbox/networks.conf` edits are needed.
 
 
-Testing that actions in the .github/worflow/pytest.yaml will be run
+#Testing that actions in the .github/worflow/pytest.yaml will be run
