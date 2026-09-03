@@ -37,7 +37,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pytest
-        if [ -f project/techtrends/requirements.txt ]; then pip install -r project/techtrends/requirements.txt; fi
+        if [ -f exercices/python-helloworld/requirements.txt ]; then pip install -r exercices/python-helloworld/requirements.txt; fi
     ## Run pytest against the techtrends project. Treat exit code 5
     ## ("no tests collected") as success so the job stays green until
     ## tests are added under project/techtrends/.
