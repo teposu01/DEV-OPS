@@ -52,4 +52,4 @@ vagrant halt    # run from the host to shut the VM down
 
 
 #Testing that actions in the .github/worflow/pytest.yaml will be run
-#Testing image create and upload to docker hub repo
+#Testing docker build and push workflow
