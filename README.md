@@ -49,3 +49,6 @@ vagrant halt    # run from the host to shut the VM down
 
 > The host-only IP `192.168.56.4` is inside VirtualBox 7.x's default-allowed
 > range (`192.168.56.0/21`), so no `/etc/vbox/networks.conf` edits are needed.
+
+
+Testing that actions in the .github/worflow/pytest.yaml will be run
