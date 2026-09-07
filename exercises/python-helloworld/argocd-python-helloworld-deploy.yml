@@ -22,7 +22,7 @@ spec:
   ## under the `python-manifests` folder. Additionally, the latest commit within
   ## the repository is targeted or `HEAD`.
   source:
-    path: python-manifests
+    path: solutions/argocd/python-manifests
     repoURL:
     ##https://github.com/kgamanji/argocd-demo
     https://github.com/teposu01/DEV-OPS
